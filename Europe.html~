@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset = "UTF-8">
+ <title>Welcome</title>
+ 
+ <link rel = "stylesheet"
+   type = "text/css"
+   href = "Italian.css" />
+
+</head>
+<body>
+<img src="../Users/Owner/Pictures/Saved%20Pictures/City.jpg" width="300" height="300" alt="Abruzzo">
+</body>
+</html>
+
+

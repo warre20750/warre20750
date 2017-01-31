@@ -1,0 +1,8 @@
+/*Italian.css*/
+
+img {
+   padding: 5px;
+   border-style:dotted dashed solid double;
+}
+
+
